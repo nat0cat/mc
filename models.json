@@ -1,0 +1,49 @@
+{
+  "qwen2.5":
+  {
+      "path": "Qwen/Qwen2.5-VL-3B-Instruct",
+      "cls": "2.5"
+  },
+
+  "qwen2":
+  {
+      "path": "Qwen/Qwen2-VL-2B-Instruct",
+      "cls": "2"
+  },
+
+  "medr1":
+  {
+      "path": "yuxianglai117/Med-R1",
+      "cls": "2"
+  },
+
+  "medvlmr1":
+  {
+      "path": "JZPeterPan/MedVLM-R1",
+      "cls": "2"
+  },
+
+  "medixr1":
+  {
+      "path": "",
+      "cls": "2.5"
+  },
+
+  "medvlthinker":
+  {
+      "path": "UCSC-VLAA/MedVLThinker-3B-RL_m23k",
+      "cls": "2.5",
+      "version":
+        {
+          "3-rl-mk":    "UCSC-VLAA/MedVLThinker-3B-RL_m23k",
+          "7-rl-mk":    "UCSC-VLAA/MedVLThinker-7B-RL_m23k",
+          "3-rl-pmc":   "UCSC-VLAA/MedVLThinker-3B-RL_PMC",
+          "7-rl-pmc":   "UCSC-VLAA/MedVLThinker-7B-RL_PMC",
+          "32-rl-pmc":  "UCSC-VLAA/MedVLThinker-32B-RL_m23k",
+          "3-rl-sft":   "UCSC-VLAA/MedVLThinker-3B-SFT_m23k-RL_PMC",
+          "7-rl-sft":   "UCSC-VLAA/MedVLThinker-7B-SFT_m23k-RL_PMC",
+          "3-rl-rl":    "UCSC-VLAA/MedVLThinker-3B-RL_m23k-RL_PMC",
+          "7-rl-rl":    "UCSC-VLAA/MedVLThinker-7B-RL_m23k-RL_PMC"
+        }
+  }
+}
