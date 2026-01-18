@@ -1,7 +1,7 @@
 # Inference Code Usage
 ### Check: ```run_sanity_check.sh```
 This script runs a very short inference job to test if the pipeline is working, and if the environment is correctly set up.  
-It runs through 2 rows from the dataset, only once: ```max_examples=2, k=1```  
+It runs qwen2.5vl-3b on 2 rows from the dataset, only once: ```model=qwen2.5, max_examples=2, k=1```  
 
 Before running the script, modify the variable ```VENV_PTH``` to a specific virtual environment.  
 
